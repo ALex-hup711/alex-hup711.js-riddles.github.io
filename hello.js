@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html class="container" lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-    
 <!--
 <script>
     var al = parseInt(prompt ("Введите первое значение:"))
@@ -80,6 +72,3 @@ alert('Вы ответили на ' + totalAnswers + ' вопросов из ' +
     alert("Спасибо и до новых встреч");
     alert("КОНЕЦ игры");
 </script>
-
-</body>
-</html>
