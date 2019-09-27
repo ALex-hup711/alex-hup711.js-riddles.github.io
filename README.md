@@ -5,7 +5,7 @@
     var res= 0;
     alert("Первая загадка");
     var name1=prompt("И зимой и летом, одним цветом");
-    if(name1=="Елка") {
+    if(name1=="Елка==елка") {
     alert("Молодец!");
     var res=res+1;
     } else { alert("Увы, неверно..");
